@@ -1,3 +1,3 @@
 # FoodGenie
 
-A Food Delivery Application.
+A Food Delivery Application in making.
